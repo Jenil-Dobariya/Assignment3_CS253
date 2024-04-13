@@ -28,10 +28,10 @@ ID,Education
 26,Post Graduate
 27,Graduate
 28,Graduate
-29,Graduate Professional
+29,Post Graduate
 30,10th Pass
 31,Post Graduate
-32,10th Pass
+32,Graduate Professional
 33,Graduate Professional
 34,12th Pass
 35,Post Graduate
@@ -58,7 +58,7 @@ ID,Education
 56,Post Graduate
 57,12th Pass
 58,Post Graduate
-59,12th Pass
+59,10th Pass
 60,Graduate
 61,Graduate
 62,Graduate
@@ -90,8 +90,8 @@ ID,Education
 88,Graduate Professional
 89,Post Graduate
 90,Graduate
-91,Graduate Professional
-92,12th Pass
+91,10th Pass
+92,Post Graduate
 93,10th Pass
 94,Graduate
 95,Post Graduate
@@ -99,7 +99,7 @@ ID,Education
 97,Post Graduate
 98,Post Graduate
 99,Graduate
-100,12th Pass
+100,Post Graduate
 101,Post Graduate
 102,Post Graduate
 103,Graduate
@@ -118,10 +118,10 @@ ID,Education
 116,Graduate
 117,10th Pass
 118,Graduate Professional
-119,12th Pass
+119,Post Graduate
 120,Graduate
 121,Graduate
-122,12th Pass
+122,Post Graduate
 123,Graduate
 124,10th Pass
 125,Graduate
@@ -141,7 +141,7 @@ ID,Education
 139,Graduate Professional
 140,Graduate Professional
 141,Post Graduate
-142,Graduate
+142,Post Graduate
 143,Post Graduate
 144,Graduate
 145,Graduate
@@ -166,7 +166,7 @@ ID,Education
 164,Graduate Professional
 165,Graduate Professional
 166,12th Pass
-167,12th Pass
+167,Post Graduate
 168,Post Graduate
 169,Graduate
 170,8th Pass
@@ -244,7 +244,7 @@ ID,Education
 242,Graduate Professional
 243,12th Pass
 244,Graduate Professional
-245,Post Graduate
+245,12th Pass
 246,Post Graduate
 247,Post Graduate
 248,Graduate
@@ -293,7 +293,7 @@ ID,Education
 291,Post Graduate
 292,Graduate
 293,Graduate
-294,12th Pass
+294,Post Graduate
 295,Graduate Professional
 296,Post Graduate
 297,Graduate Professional
@@ -307,8 +307,8 @@ ID,Education
 305,Graduate Professional
 306,Graduate Professional
 307,Post Graduate
-308,10th Pass
-309,Post Graduate
+308,Graduate
+309,Graduate
 310,Graduate
 311,Graduate Professional
 312,10th Pass
@@ -338,15 +338,15 @@ ID,Education
 336,Graduate Professional
 337,Graduate
 338,12th Pass
-339,Post Graduate
+339,12th Pass
 340,Graduate Professional
 341,Post Graduate
 342,Graduate
 343,Graduate
-344,Post Graduate
-345,12th Pass
-346,Graduate Professional
-347,Graduate
+344,Graduate
+345,Post Graduate
+346,Post Graduate
+347,Post Graduate
 348,Graduate Professional
 349,Graduate
 350,Graduate Professional
@@ -354,7 +354,7 @@ ID,Education
 352,Graduate
 353,Graduate
 354,Post Graduate
-355,12th Pass
+355,Post Graduate
 356,Post Graduate
 357,Post Graduate
 358,Post Graduate
@@ -384,7 +384,7 @@ ID,Education
 382,12th Pass
 383,Graduate
 384,12th Pass
-385,Post Graduate
+385,12th Pass
 386,10th Pass
 387,Graduate
 388,Post Graduate
@@ -395,14 +395,14 @@ ID,Education
 393,Post Graduate
 394,Post Graduate
 395,Graduate
-396,12th Pass
+396,Post Graduate
 397,12th Pass
 398,Graduate Professional
 399,Post Graduate
 400,Graduate Professional
 401,Graduate Professional
 402,Post Graduate
-403,Graduate
+403,Post Graduate
 404,12th Pass
 405,Post Graduate
 406,Graduate
@@ -418,12 +418,12 @@ ID,Education
 416,12th Pass
 417,Graduate Professional
 418,Graduate Professional
-419,Graduate
+419,12th Pass
 420,Graduate Professional
 421,Graduate Professional
 422,10th Pass
 423,Post Graduate
-424,Graduate
+424,Post Graduate
 425,Post Graduate
 426,Graduate
 427,Post Graduate
@@ -449,7 +449,7 @@ ID,Education
 447,Graduate
 448,Graduate
 449,Graduate Professional
-450,Post Graduate
+450,12th Pass
 451,Post Graduate
 452,Post Graduate
 453,Post Graduate
@@ -473,11 +473,11 @@ ID,Education
 471,Post Graduate
 472,Graduate Professional
 473,Graduate
-474,Graduate
-475,Graduate Professional
+474,Post Graduate
+475,Post Graduate
 476,12th Pass
-477,12th Pass
-478,12th Pass
+477,10th Pass
+478,Graduate
 479,Graduate Professional
 480,Graduate
 481,Graduate Professional
@@ -524,7 +524,7 @@ ID,Education
 522,Post Graduate
 523,Graduate
 524,Post Graduate
-525,12th Pass
+525,10th Pass
 526,Graduate
 527,Graduate
 528,Post Graduate
@@ -568,7 +568,7 @@ ID,Education
 566,Post Graduate
 567,Graduate
 568,Post Graduate
-569,12th Pass
+569,Post Graduate
 570,Post Graduate
 571,Graduate Professional
 572,Post Graduate
@@ -584,7 +584,7 @@ ID,Education
 582,Graduate
 583,Post Graduate
 584,Graduate
-585,12th Pass
+585,Post Graduate
 586,Post Graduate
 587,Graduate
 588,Graduate Professional
@@ -597,7 +597,7 @@ ID,Education
 595,Graduate Professional
 596,Graduate Professional
 597,Post Graduate
-598,Graduate
+598,Post Graduate
 599,Post Graduate
 600,12th Pass
 601,Graduate
@@ -637,7 +637,7 @@ ID,Education
 635,Graduate
 636,Graduate Professional
 637,Post Graduate
-638,Graduate
+638,12th Pass
 639,8th Pass
 640,Post Graduate
 641,Graduate
@@ -677,7 +677,7 @@ ID,Education
 675,12th Pass
 676,Post Graduate
 677,Post Graduate
-678,Graduate Professional
+678,Post Graduate
 679,Graduate
 680,12th Pass
 681,Graduate
@@ -728,7 +728,7 @@ ID,Education
 726,10th Pass
 727,12th Pass
 728,Graduate Professional
-729,Graduate
+729,Post Graduate
 730,10th Pass
 731,12th Pass
 732,Graduate
@@ -742,10 +742,10 @@ ID,Education
 740,Post Graduate
 741,Post Graduate
 742,12th Pass
-743,12th Pass
+743,Post Graduate
 744,Graduate Professional
 745,Graduate
-746,Graduate Professional
+746,Post Graduate
 747,12th Pass
 748,Post Graduate
 749,Graduate
@@ -766,15 +766,15 @@ ID,Education
 764,Post Graduate
 765,10th Pass
 766,Graduate
-767,12th Pass
+767,Post Graduate
 768,Graduate Professional
 769,Post Graduate
-770,Graduate
+770,Post Graduate
 771,Graduate
 772,Graduate
 773,Graduate
 774,Graduate
-775,12th Pass
+775,Post Graduate
 776,Graduate
 777,Graduate
 778,Post Graduate
@@ -812,7 +812,7 @@ ID,Education
 810,10th Pass
 811,Post Graduate
 812,Post Graduate
-813,Graduate
+813,Graduate Professional
 814,Graduate Professional
 815,Post Graduate
 816,Post Graduate
@@ -834,16 +834,16 @@ ID,Education
 832,Post Graduate
 833,Post Graduate
 834,Post Graduate
-835,12th Pass
+835,10th Pass
 836,10th Pass
 837,Graduate Professional
-838,Graduate Professional
+838,Graduate
 839,12th Pass
 840,Post Graduate
 841,Graduate
 842,Post Graduate
 843,Graduate Professional
-844,12th Pass
+844,Post Graduate
 845,Graduate
 846,10th Pass
 847,12th Pass
@@ -865,7 +865,7 @@ ID,Education
 863,Graduate
 864,Graduate Professional
 865,Graduate
-866,Graduate
+866,12th Pass
 867,Graduate Professional
 868,Post Graduate
 869,Graduate
@@ -875,7 +875,7 @@ ID,Education
 873,Post Graduate
 874,12th Pass
 875,Post Graduate
-876,10th Pass
+876,Graduate Professional
 877,Graduate
 878,Graduate
 879,Graduate Professional
@@ -886,7 +886,7 @@ ID,Education
 884,Post Graduate
 885,Graduate Professional
 886,Post Graduate
-887,Post Graduate
+887,Graduate
 888,Post Graduate
 889,Graduate
 890,10th Pass
@@ -910,7 +910,7 @@ ID,Education
 908,Graduate
 909,Post Graduate
 910,Graduate
-911,12th Pass
+911,Post Graduate
 912,Graduate
 913,Graduate
 914,10th Pass
@@ -919,15 +919,15 @@ ID,Education
 917,Graduate Professional
 918,Graduate Professional
 919,Graduate
-920,12th Pass
+920,Post Graduate
 921,Graduate
 922,Graduate
 923,Post Graduate
 924,Graduate
 925,Graduate
-926,12th Pass
+926,Post Graduate
 927,12th Pass
-928,Post Graduate
+928,Graduate
 929,Graduate Professional
 930,Graduate
 931,Post Graduate
@@ -938,7 +938,7 @@ ID,Education
 936,Graduate Professional
 937,Graduate Professional
 938,Graduate Professional
-939,12th Pass
+939,Post Graduate
 940,Post Graduate
 941,Graduate
 942,Graduate
@@ -979,7 +979,7 @@ ID,Education
 977,12th Pass
 978,12th Pass
 979,Graduate Professional
-980,Graduate Professional
+980,Post Graduate
 981,Graduate
 982,Graduate
 983,Graduate
@@ -1018,7 +1018,7 @@ ID,Education
 1016,12th Pass
 1017,Graduate Professional
 1018,Graduate Professional
-1019,12th Pass
+1019,Post Graduate
 1020,12th Pass
 1021,Post Graduate
 1022,Post Graduate
@@ -1027,7 +1027,7 @@ ID,Education
 1025,10th Pass
 1026,Graduate Professional
 1027,Graduate
-1028,Graduate
+1028,12th Pass
 1029,Graduate
 1030,Post Graduate
 1031,8th Pass
@@ -1056,13 +1056,13 @@ ID,Education
 1054,Post Graduate
 1055,Graduate Professional
 1056,Graduate
-1057,Graduate
+1057,Post Graduate
 1058,Graduate Professional
 1059,Graduate
 1060,Post Graduate
 1061,Graduate
 1062,Graduate
-1063,12th Pass
+1063,Post Graduate
 1064,Graduate
 1065,Graduate
 1066,Graduate Professional
@@ -1118,7 +1118,7 @@ ID,Education
 1116,Graduate Professional
 1117,Graduate
 1118,Post Graduate
-1119,12th Pass
+1119,Post Graduate
 1120,10th Pass
 1121,Graduate
 1122,Graduate
@@ -1137,7 +1137,7 @@ ID,Education
 1135,Post Graduate
 1136,Graduate
 1137,Post Graduate
-1138,12th Pass
+1138,Post Graduate
 1139,10th Pass
 1140,Graduate
 1141,Graduate
@@ -1159,7 +1159,7 @@ ID,Education
 1157,Graduate
 1158,Graduate Professional
 1159,Graduate
-1160,10th Pass
+1160,Graduate Professional
 1161,Graduate Professional
 1162,Graduate
 1163,Post Graduate
@@ -1169,7 +1169,7 @@ ID,Education
 1167,Post Graduate
 1168,Graduate
 1169,Graduate Professional
-1170,12th Pass
+1170,10th Pass
 1171,Graduate
 1172,Graduate Professional
 1173,Graduate Professional
@@ -1197,10 +1197,10 @@ ID,Education
 1195,Post Graduate
 1196,Graduate Professional
 1197,Graduate Professional
-1198,12th Pass
+1198,10th Pass
 1199,Graduate Professional
 1200,12th Pass
-1201,10th Pass
+1201,12th Pass
 1202,Post Graduate
 1203,12th Pass
 1204,Graduate
@@ -1245,7 +1245,7 @@ ID,Education
 1243,Graduate
 1244,Graduate
 1245,Graduate
-1246,12th Pass
+1246,Post Graduate
 1247,Graduate Professional
 1248,Post Graduate
 1249,Post Graduate
@@ -1288,7 +1288,7 @@ ID,Education
 1286,Graduate
 1287,Post Graduate
 1288,Graduate Professional
-1289,Graduate
+1289,Post Graduate
 1290,Graduate Professional
 1291,Graduate
 1292,Graduate Professional
@@ -1334,7 +1334,7 @@ ID,Education
 1332,12th Pass
 1333,Graduate
 1334,Graduate Professional
-1335,12th Pass
+1335,Post Graduate
 1336,Post Graduate
 1337,Graduate Professional
 1338,Post Graduate
